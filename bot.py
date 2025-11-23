@@ -6,7 +6,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.filters import Command
 from fixer import auto_fix_code
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8385007008:AAHqAVgSsoFfQggGVs_rzLjlrJS6EKzOsfI"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
